@@ -9,3 +9,16 @@
  */
 
 
+let myDesk = ['laptop', 'pen', 'notebook', 'cup', 'rain', 'chair'];
+
+// let removemyDesk = myDesk.pop()
+// console.log(myDesk); //- Remove the last item
+
+// let addremovedmyDesk = myDesk.unshift(removemyDesk);
+// console.log(myDesk); // -Add the last item as the first item on the array 
+
+// let alphabeticalmyDesk = myDesk.sort();
+// console.log(alphabeticalmyDesk); //- Sort the items by alphabetical order
+
+// let findmyDesk = myDesk.find((item) => item == 'notebook');
+// console.log(findmyDesk); //Use the find() method to find a specific item in the array
